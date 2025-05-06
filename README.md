@@ -1,4 +1,8 @@
 ## Hi there 👋
+### 👨‍💻 Resume
+📄 [Download My Resume]
+
+- 🔭 I’m currently working on ...
 
 <!--
 **sayed-ashfaq/sayed-ashfaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
