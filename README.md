@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on a **LangChain-powered GenAI project** that acts as a smart morning productivity assistant. It combines the power of large language models (LLMs) with tools like **retrieval-augmented generation (RAG)**, **prompt engineering**, and **task automation**. The goal is to build an AI system that can deliver personalized knowledge updates, manage to-do lists, and support daily goal tracking—all through natural language. I'm focusing on integrating **OpenAI, LangChain, and vector databases** to make the assistant context-aware and responsive.
 
 ### 👨‍💻 Resume
-📄 You can know more about myself and my contribution in [My Resume](https://github.com/sayed-ashfaq/sayed-ashfaq/blob/main/Sayed-ashfaq-DS-Resume.pdf)
+📄 You can know more about myself and my contribution in [My Resume](https://github.com/sayed-ashfaq/sayed-ashfaq/blob/main/DataAnalystDel.pdf)
 <!--
 **sayed-ashfaq/sayed-ashfaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
