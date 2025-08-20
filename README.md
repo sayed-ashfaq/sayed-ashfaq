@@ -1,21 +1,9 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=32&duration=3000&pause=500&color=4EA8DE&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Sayed+Ashfaq;AI+Engineer+%7C+Data+Scientist;" alt="Typing SVG" />
+</div>
 
-
-- 🔭 I’m currently working on a **LangChain-powered GenAI project** that acts as a smart morning productivity assistant. It combines the power of large language models (LLMs) with tools like **retrieval-augmented generation (RAG)**, **prompt engineering**, and **task automation**. The goal is to build an AI system that can deliver personalized knowledge updates, manage to-do lists, and support daily goal tracking—all through natural language. I'm focusing on integrating **OpenAI, LangChain, and vector databases** to make the assistant context-aware and responsive.
-
-### 👨‍💻 Resume
-📄 You can know more about myself and my contribution in [My Resume](https://github.com/sayed-ashfaq/sayed-ashfaq/blob/main/DataAnalystDel.pdf)
-<!--
-**sayed-ashfaq/sayed-ashfaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=anidec25&style=flat-square&color=4EA8DE" alt="Profile Views"/>
+  <a href="https://www.linkedin.com/in/sayed-ashfaq/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:302syedashfaq@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+</div>
